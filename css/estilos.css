@@ -7,11 +7,11 @@
 
 body {
 	
-	background-image: url("rode.PNG");
+	background-image: url("vegeta-artwork.jpg");
 	
     background-repeat: no-repeat;
     
-    background-position: center center;
+    background-position: top ;
     background-attachment: fixed;
 	background-color: black;
 
@@ -185,11 +185,11 @@ main {
 	}
 	body {
 	
-		background-image: url("pp.jpg");
+		background-image: url("vegeta-artwork.jpg");
 		
 		background-repeat: no-repeat;
 		background-size: cover;
-		background-position: center center;
+		
 		background-attachment: fixed;
 		background-color: black;
 	
